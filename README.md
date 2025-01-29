@@ -31,3 +31,7 @@ Open your browser and navigate to `http://localhost:3000` to start creating post
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
+
+## TODO
+
+Allow user to use Generative AI to create the background image
